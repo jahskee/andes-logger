@@ -1,0 +1,12 @@
+{
+  "name": "va-logger-cdn",
+  "version": "1.4.66",
+  "description": "",
+  "main": "dist/script-min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm publish"
+  },
+  "author": "",
+  "license": "ISC"
+}
